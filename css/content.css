@@ -1,0 +1,15 @@
+.content article{
+    margin-bottom: 2rem;
+    text-align: justify;
+}
+.content a{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(252, 156, 84);
+    padding: 0.5rem;
+    border-radius: 25px;
+}
+.content a:hover{
+    background-color: rgb(253, 94, 83);
+    transition: 0.4s;
+}
